@@ -1,2 +1,2 @@
-# Android-Attendance-App-master
+# AttendanceRegister
 Android Attendance App 
